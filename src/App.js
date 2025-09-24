@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "./barf logo.png"; // letak logo di src/barf-logo.png
+import logo from "./barf-logo.png"; // letak logo di src/barf-logo.png
 import "./App.css";
 
 function App() {
